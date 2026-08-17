@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "System Admin",
+      "email": "admin@resumeiq.com",
+      "password": "admin123",
+      "role": "ADMIN"
+    },
+    {
+      "id": 2,
+      "name": "Demo User",
+      "email": "user@resumeiq.com",
+      "password": "user123",
+      "role": "JOB_SEEKER"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Junior Web Developer",
+      "company": "TechNova",
+      "location": "Dhaka",
+      "job_type": "Full-time",
+      "salary": "৳25K–35K",
+      "description": "Build and maintain modern web applications.",
+      "required_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Frontend Developer Intern",
+      "company": "PixelCraft",
+      "location": "Remote",
+      "job_type": "Internship",
+      "salary": "৳12K–18K",
+      "description": "Work with the frontend team on responsive interfaces.",
+      "required_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Java Software Engineer",
+      "company": "SoftGrid",
+      "location": "Dhaka",
+      "job_type": "Full-time",
+      "salary": "৳35K–50K",
+      "description": "Develop enterprise Java applications.",
+      "required_skills": [
+        "Java",
+        "SQL",
+        "OOP",
+        "Git"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Backend Developer Intern",
+      "company": "CloudByte",
+      "location": "Remote",
+      "job_type": "Internship",
+      "salary": "৳15K–22K",
+      "description": "Assist with REST API development.",
+      "required_skills": [
+        "Node.js",
+        "Express",
+        "SQL",
+        "Git"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Junior Python Developer",
+      "company": "DataNest",
+      "location": "Dhaka",
+      "job_type": "Full-time",
+      "salary": "৳30K–45K",
+      "description": "Develop Python-based business applications.",
+      "required_skills": [
+        "Python",
+        "SQL",
+        "Git"
+      ]
+    }
+  ],
+  "resumes": [],
+  "applications": [],
+  "notifications": []
+}
